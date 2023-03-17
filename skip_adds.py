@@ -16,3 +16,6 @@ def skip_ad():
         pyautogui.click(video_ad)
 
     skip_ad()
+
+
+skip_ad()
